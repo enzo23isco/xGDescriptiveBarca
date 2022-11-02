@@ -1,0 +1,29 @@
+﻿Round,Coach,Rival,H/A,xG FCB,xG Rival,Goals FCB,Goals Rival,Result,Superado en xG?,xG Difference
+1,Koeman,Real Sociedad,H,3.46,0.9,4,2,W,1,2.56
+2,Koeman ,Athletic Club,A,1.18,1.43,1,1,T,0,-0.25
+3,Koeman,Getafe,H,1.05,0.28,2,1,W,1,0.77
+4,Koeman ,Granada,H,1.88,0.61,1,1,W,1,1.27
+5,Koeman,Cadiz,A,0.36,1.4,0,0,T,0,-1.04
+6,Koeman ,Levante,H,3.11,0.71,3,0,W,1,2.4
+7,Koeman,Atletico Madrid,A,0.75,1.37,0,2,D,0,-0.62
+8,Koeman ,Valencia,H,2.38,0.38,3,1,W,1,2
+9,Koeman,Real Madrid,H,1.59,1.55,1,2,D,1,0.04
+10,Koeman,Rayo Vallecano,A,2.86,0.79,0,1,D,1,2.07
+11,Sergi,Alaves,H,1.56,0.6,1,1,T,1,0.96
+12,Sergi,Celta Vigo,A,1.14,1.77,3,3,T,0,-0.63
+13,Xavi,Espanyol,H,1.51,1.41,1,0,W,1,0.1
+14,Xavi,Villarreal,A,3.37,1.56,3,1,W,1,1.81
+15,Xavi,Real Betis,H,1.21,0.64,0,1,D,1,0.57
+16,Xavi,Osasuna,A,1.39,0.37,2,2,T,1,1.02
+17,Xavi,Elche,H,2.96,1.27,3,2,W,1,1.69
+18,Xavi,Sevilla,A,1.91,0.3,1,1,T,1,1.61
+19,Xavi,Mallorca,A,1.62,0.99,1,0,W,1,0.63
+20,Xavi,Granada,A,0.97,0.75,1,1,T,1,0.22
+21,Xavi,Alaves,A,1.15,0.73,1,0,W,1,0.42
+22,Xavi,Atletico Madrid,H,0.93,1.61,4,2,W,0,-0.68
+23,Xavi,Espanyol,A,1.62,0.62,2,2,T,1,1
+24,Xavi,Valencia,A,2.47,0.77,4,1,W,1,1.7
+25,Xavi,Athletic Club,H,3.24,0.33,4,0,W,1,2.91
+26,Xavi,Elche,A,4.09,0.85,2,1,W,1,3.24
+27,Xavi,Osasuna,H,3.9,0.11,4,0,W,1,3.79
+28,Xavi,Real Madrid,A,4.26,0.63,4,0,W,1,3.63
